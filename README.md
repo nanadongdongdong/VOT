@@ -4,5 +4,6 @@
 
 ![](<https://github.com/nanadongdongdong/VOT/blob/master/img/VOT.png>)
 
-![](<https://github.com/nanadongdongdong/VOT/blob/master/img/VOT1.png>）
+![](<https://github.com/nanadongdongdong/VOT/blob/master/img/VOT.png>)
+
 
